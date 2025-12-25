@@ -7,8 +7,8 @@ A dynamic web application to browse and manage movie trailers.
 * **Search Functionality:** Easily find trailers by title or category.
 
 ## Screenshots
-![Main Dashboard](trailer.jpg)
-![Homepage Screenshot](movies2.jpg)
+![Main Dashboard](trailer.jpg.jpeg)
+![Homepage Screenshot](movies2.jpg.jpeg)
 
 ##  Tech Stack
 * **Frontend:** HTML5, CSS3
